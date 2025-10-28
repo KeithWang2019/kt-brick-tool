@@ -26,5 +26,16 @@
     "typescript": "~5.9.3",
     "vite": "^7.1.7",
     "vue-tsc": "^3.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KeithWang2019/kt-brick-tool.git"
+  },
+  "keywords": [
+    "vue3",
+    "vite",
+    "tool"
+  ],
+  "author": "KeithWang",
+  "license": "MIT"
 }
