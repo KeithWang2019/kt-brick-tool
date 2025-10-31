@@ -1,6 +1,6 @@
 # 积木工具集合
 
-<img src="https://github.com/KeithWang2019/kt-brick-image/blob/master/logo.png" alt="示意图" width="120" height="120">
+<img src="https://brick.cangsg.com/logo.png" alt="示意图" width="120" height="120">
 
 项目定义了一个工具类 KtTool，主要实现了 **防抖（debounce）** 和 **节流（throttle）** 两种常用的函数控制功能，用于优化高频触发的事件（如滚动、输入、点击等）。
 
